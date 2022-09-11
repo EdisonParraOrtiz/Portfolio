@@ -29,6 +29,7 @@
 .home__title{
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-0-25);
+  font-size: 40px;
 }
 
 .home__hand{
@@ -189,7 +190,7 @@
         align-items: center;
         margin-left: 50px;
         margin-right: 50px;
-        font-size: 40px;
+        font-size: 30px;
 
     }
 
