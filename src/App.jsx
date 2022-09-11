@@ -3,7 +3,8 @@ import Header from './components/Header'
 import Home from './components/home/Home'
 import About from './components/About/About'
 import './App.css'
-import Skills from './components/skills/skills'
+import Skills from './components/skills/Skills'
+
 
 function App() {
   const [count, setCount] = useState(0)
