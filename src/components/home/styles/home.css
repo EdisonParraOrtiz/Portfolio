@@ -44,20 +44,11 @@
     margin-bottom: var(--mb-1);
 }
 
-.home__subtitle::before{
-    content: '';
-    position: absolute;
-    width: 70px ;
-    height: 1px;
-    background-color: var(--text-color);
-    left: 0;
-    top: 1rem;
-
-}
 
 .home__description{
     max-width: 400px;
     margin-bottom: var(--mb-2);
+    text-align: justify;
 }
 
 .home__img{
