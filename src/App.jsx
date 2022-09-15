@@ -4,6 +4,8 @@ import Home from './components/home/Home'
 import About from './components/About/About'
 import './App.css'
 import Skills from './components/skills/Skills'
+import Services from './components/services/Services'
+import Projects from './components/Projects/Projects'
 
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
       <Home/>
       <About/>
       <Skills/>
+      <Services/>
+      <Projects/>
      </main>
     </div>
   )
